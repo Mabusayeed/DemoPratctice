@@ -2,3 +2,4 @@ Practice Git
 
 Check the status of changes
 check the status of pull in your local
+check the status of practice branch
