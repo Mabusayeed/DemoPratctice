@@ -1,1 +1,3 @@
 Practice Git
+
+Check the status of changes
