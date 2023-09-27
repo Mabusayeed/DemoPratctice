@@ -1,3 +1,4 @@
 Practice Git
 
 Check the status of changes
+check the status of pull in your local
